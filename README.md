@@ -1,6 +1,6 @@
 # Sidebar
 
-[Sidebar](https://brixsta.github.io/Sidebar/)
+[View Sidebar](https://brixsta.github.io/Sidebar/)
 
 - Coding exercise
 - Practice making an animated sidebar
