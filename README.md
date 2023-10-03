@@ -5,4 +5,5 @@
 - Coding exercise
 - Practice making an animated sidebar
 - Used fixed positioning for the elements
-- Used rotateZ and translate to create animated hamburger menu
+- rotateZ and translate to create animated hamburger menu
+- ::before and ::after pseudo elements for link hover effect
